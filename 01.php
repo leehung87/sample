@@ -8,5 +8,6 @@
  */
 
  echo 'Xin chào';
+ echo "Bonjour";
 
 ?>
